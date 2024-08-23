@@ -95,6 +95,11 @@ nav ul li a {
     max-width: 600px;
 }
 
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
 footer {
     background-color: #1C3A63;
     color: white;
